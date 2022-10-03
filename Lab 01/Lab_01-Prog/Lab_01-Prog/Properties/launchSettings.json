@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "Default": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    },
+    "Valid Input": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\valid.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\result.txt\""
+    },
+    "Faulty Contents": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\faulty.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\result.txt\""
+    },
+    "Faulty Input Path": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\fault.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Tests\\result.txt\""
+    }
+  }
+}

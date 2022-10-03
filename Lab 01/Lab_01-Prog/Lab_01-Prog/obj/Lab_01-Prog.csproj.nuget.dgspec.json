@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj": {}
+    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj": {}
   },
   "projects": {
-    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj": {
+    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj",
+        "projectUniqueName": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj",
         "projectName": "Lab_01-Prog",
-        "projectPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj",
+        "projectPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\Lab_01-Prog.csproj",
         "packagesPath": "C:\\Users\\SpatiumOwl\\.nuget\\packages\\",
-        "outputPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\obj\\",
+        "outputPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 01\\Lab_01-Prog\\Lab_01-Prog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
