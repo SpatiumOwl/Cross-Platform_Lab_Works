@@ -6,3 +6,11 @@
 <p>2 - виконана, <strong>не здана</strong> </p>
 <p>3 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
 <p>4 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>5 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>6 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>7 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>8 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>9 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>10 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>11 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>12 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
