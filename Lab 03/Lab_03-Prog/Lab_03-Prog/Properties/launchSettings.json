@@ -1,0 +1,40 @@
+{
+  "profiles": {
+    "Default": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    },
+    "Example 1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\example 1.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Example 2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\example 2.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Wrong structure": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\wrong structure.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Mismatched types to lines": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\mismatched types to lines.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Bad number of types": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\bad number of types.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Uneven matrix": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\uneven matrix.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Empty input file": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\empty input file.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    },
+    "Faulty Input Path": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\fault.txt\" \"E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 03\\Tests\\result.txt\""
+    }
+  }
+}

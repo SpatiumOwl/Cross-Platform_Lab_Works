@@ -3,8 +3,8 @@
 
 ## Статус лабораторних робіт:
 <p>1 - виконана, здана </p>
-<p>2 - виконана, <strong>не здана</strong> </p>
-<p>3 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
+<p>2 - виконана, здана </p>
+<p>3 - виконана, <strong>не здана</strong> </p>
 <p>4 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
 <p>5 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
 <p>6 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
