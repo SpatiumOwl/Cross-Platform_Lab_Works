@@ -1,0 +1,12 @@
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\bin\Debug\net6.0\Lab 04-Lib.deps.json
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\bin\Debug\net6.0\Lab 04-Lib.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\bin\Debug\net6.0\Lab 04-Lib.pdb
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.csproj.AssemblyReference.cache
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.AssemblyInfoInputs.cache
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.AssemblyInfo.cs
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.csproj.CoreCompileInputs.cache
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\refint\Lab 04-Lib.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\Lab 04-Lib.pdb
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Lib\obj\Debug\net6.0\ref\Lab 04-Lib.dll

@@ -1,0 +1,8 @@
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Prog.exe
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Prog.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Prog.deps.json
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Prog.runtimeconfig.json
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Prog.pdb
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Lib.dll
+E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\net6.0\publish\Lab 04-Lib.pdb

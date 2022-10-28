@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab 04-Prog": {
+      "commandName": "Project",
+      "commandLineArgs": "run set-path -p aargh"
+    }
+  }
+}

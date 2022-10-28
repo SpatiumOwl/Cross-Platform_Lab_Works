@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VC9OEA6zZ4JYEVDGENnk2OU+Cb/eBK/VcJyVHYm97j+kZQK0JgxyS3+DNttQvDyvGyCxBfvo2UH0lpBfGE2R2w==",
+  "success": true,
+  "projectFilePath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SpatiumOwl\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\SpatiumOwl\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

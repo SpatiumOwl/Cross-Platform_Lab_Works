@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab_04_Prog</RootNamespace>
+	<Version>0.1.5.0</Version>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+	  <PackAsTool>true</PackAsTool>
+	  <PackageId>ikholiavkin</PackageId>
+	  <ToolCommandName>ikholiavkin</ToolCommandName>
+	  <PackageOutputPath>./nupkg</PackageOutputPath>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <PackageType>DotNetCliTool</PackageType>
+  </PropertyGroup>
+
+	<Target BeforeTargets="Build" Name="CleanPackages">
+		<RemoveDir Directories="./nupkg" />
+	</Target>
+
+	<Target AfterTargets="Pack" Name="PushToBaget">
+		<Exec Condition="$(Configuration) == 'Release'" Command="dotnet nuget push &quot;nupkg\*.nupkg&quot; -s http://localhost:5000/v3/index.json" />
+	</Target>
+
+	<ItemGroup>
+	  <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="4.0.1" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab 04-Lib\Lab 04-Lib.csproj" />
+  </ItemGroup>
+
+</Project>
