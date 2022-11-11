@@ -39,15 +39,52 @@ namespace Lab_04_Prog
                 });
                 runCmd.Command("lab1", labCmd => 
                 {
-                    var ioOptions = GetIOOptions(labCmd);
-                    labCmd.OnExecute(() => LaunchLab(Lab_04_Lib.Lab01.Launch, ioOptions));
+                    var inputArg = labCmd.Option("-i|--input", "Input path", CommandOptionType.SingleOrNoValue);
+                    inputArg.DefaultValue = "";
+
+                    var outputArg = labCmd.Option("-o|--output", "Output path", CommandOptionType.SingleOrNoValue);
+                    outputArg.DefaultValue = "";
+                    labCmd.OnExecute(() =>
+                    {
+                        Console.WriteLine(inputArg.Value() + " " + outputArg.Value());
+                        LaunchLab(Lab_04_Lib.Lab01.Launch, new KeyValuePair<string, string>(inputArg.Value(), outputArg.Value()));
+                    });
+                });
+                runCmd.Command("lab2", labCmd =>
+                {
+                    var inputArg = labCmd.Option("-i|--input", "Input path", CommandOptionType.SingleOrNoValue);
+                    inputArg.DefaultValue = "";
+
+                    var outputArg = labCmd.Option("-o|--output", "Output path", CommandOptionType.SingleOrNoValue);
+                    outputArg.DefaultValue = "";
+                    labCmd.OnExecute(() =>
+                    {
+                        Console.WriteLine(inputArg.Value() + " " + outputArg.Value());
+                        LaunchLab(Lab_04_Lib.Lab02.Launch, new KeyValuePair<string, string>(inputArg.Value(), outputArg.Value()));
+                    });
+                });
+                runCmd.Command("lab3", labCmd =>
+                {
+                    var inputArg = labCmd.Option("-i|--input", "Input path", CommandOptionType.SingleOrNoValue);
+                    inputArg.DefaultValue = "";
+
+                    var outputArg = labCmd.Option("-o|--output", "Output path", CommandOptionType.SingleOrNoValue);
+                    outputArg.DefaultValue = "";
+                    labCmd.OnExecute(() =>
+                    {
+                        Console.WriteLine(inputArg.Value() + " " + outputArg.Value());
+                        LaunchLab(Lab_04_Lib.Lab03.Launch, new KeyValuePair<string, string>(inputArg.Value(), outputArg.Value()));
+                    });
                 });
             });
             app.Command("set-path", setCmd =>
             {
                 setCmd.Description = "Set path to the input and output files folder";
                 var labPath = setCmd.Option("-p|--path", "Path to the folder with input and output files", CommandOptionType.SingleValue).IsRequired();
-                setCmd.OnExecute(() => Environment.SetEnvironmentVariable("LAB_PATH", labPath.Value()));
+                setCmd.OnExecute(() =>
+                {
+                    Environment.SetEnvironmentVariable("LAB_PATH", labPath.Value(), EnvironmentVariableTarget.User);
+                });
             });
 
             app.OnExecute(() =>
@@ -58,21 +95,15 @@ namespace Lab_04_Prog
 
             return app.Execute(args);
         }
-        static KeyValuePair<string, string> GetIOOptions(CommandLineApplication cmd)
-        {
-            var inputArg = cmd.Option("-i|--input", "Input path", CommandOptionType.SingleOrNoValue);
-
-            var outputArg = cmd.Option("-o|--output", "Output path", CommandOptionType.SingleOrNoValue);
-
-            return new KeyValuePair<string, string>(inputArg.HasValue() ? inputArg.Value() : "", outputArg.HasValue() ? outputArg.Value() : "");
-        }
         static void LaunchLab(LabLaunchCommand launchCommand, KeyValuePair<string, string> ioOptions)
         {
             string inputOption = ioOptions.Key;
             string outputOption = ioOptions.Value;
             
-            string? labPath = Environment.GetEnvironmentVariable("LAB_PATH");
+            string? labPath = Environment.GetEnvironmentVariable("LAB_PATH", EnvironmentVariableTarget.User);
             string workingDirectory = Environment.CurrentDirectory;
+
+            Console.WriteLine(labPath);
 
             if (inputOption != "" && outputOption != "")
                 launchCommand(inputOption, outputOption);

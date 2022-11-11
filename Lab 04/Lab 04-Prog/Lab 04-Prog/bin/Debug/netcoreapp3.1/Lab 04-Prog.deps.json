@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Lab 04-Prog/0.1.0.0": {
+      "Lab 04-Prog/0.1.5.0": {
         "dependencies": {
           "McMaster.Extensions.CommandLineUtils": "4.0.1"
         },
@@ -41,7 +41,7 @@
     }
   },
   "libraries": {
-    "Lab 04-Prog/0.1.0.0": {
+    "Lab 04-Prog/0.1.5.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

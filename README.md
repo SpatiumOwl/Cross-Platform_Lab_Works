@@ -5,7 +5,7 @@
 <p>1 - виконана, здана </p>
 <p>2 - виконана, здана </p>
 <p>3 - виконана, здана </p>
-<p>4 - <strong>частково виконана</strong>, <strong>частково здана</strong> </p>
+<p>4 - виконана, здана </p>
 <p>5 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
 <p>6 - <strong>не виконана</strong>, <strong>не здана</strong> </p>
 <p>7 - <strong>не виконана</strong>, <strong>не здана</strong> </p>

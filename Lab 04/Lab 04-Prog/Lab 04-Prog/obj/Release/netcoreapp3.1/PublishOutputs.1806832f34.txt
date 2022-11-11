@@ -1,0 +1,9 @@
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.exe
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.deps.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.runtimeconfig.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.pdb

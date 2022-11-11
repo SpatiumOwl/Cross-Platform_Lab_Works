@@ -1,8 +1,16 @@
 {
   "profiles": {
-    "Lab 04-Prog": {
+    "LaunchWithIOArgs": {
       "commandName": "Project",
-      "commandLineArgs": "run set-path -p aargh"
+      "commandLineArgs": "run lab1 -i=\"D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Tests\\lab1\\valid.txt\" -o=\"D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Tests\\result.txt\""
+    },
+    "SetEnvironmentVariable": {
+      "commandName": "Project",
+      "commandLineArgs": "set-path -p=\"D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Tests\\lab2\""
+    },
+    "RunLabWithoutArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "run lab2"
     }
   }
 }

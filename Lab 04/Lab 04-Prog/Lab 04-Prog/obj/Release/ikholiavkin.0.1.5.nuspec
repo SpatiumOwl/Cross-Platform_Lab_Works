@@ -10,14 +10,14 @@
     </packageTypes>
   </metadata>
   <files>
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.dll" target="tools\netcoreapp3.1\any\Lab 04-Prog.dll" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.deps.json" target="tools\netcoreapp3.1\any\Lab 04-Prog.deps.json" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.runtimeconfig.json" target="tools\netcoreapp3.1\any\Lab 04-Prog.runtimeconfig.json" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.pdb" target="tools\netcoreapp3.1\any\Lab 04-Prog.pdb" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.CommandLineUtils.dll" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll" target="tools\netcoreapp3.1\any\System.ComponentModel.Annotations.dll" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.dll" target="tools\netcoreapp3.1\any\Lab 04-Lib.dll" />
-    <file src="E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.pdb" target="tools\netcoreapp3.1\any\Lab 04-Lib.pdb" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.dll" target="tools\netcoreapp3.1\any\Lab 04-Prog.dll" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.deps.json" target="tools\netcoreapp3.1\any\Lab 04-Prog.deps.json" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.runtimeconfig.json" target="tools\netcoreapp3.1\any\Lab 04-Prog.runtimeconfig.json" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Prog.pdb" target="tools\netcoreapp3.1\any\Lab 04-Prog.pdb" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll" target="tools\netcoreapp3.1\any\System.ComponentModel.Annotations.dll" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.dll" target="tools\netcoreapp3.1\any\Lab 04-Lib.dll" />
+    <file src="D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Release\netcoreapp3.1\publish\Lab 04-Lib.pdb" target="tools\netcoreapp3.1\any\Lab 04-Lib.pdb" />
   </files>
 </package>

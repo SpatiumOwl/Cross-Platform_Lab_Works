@@ -17,3 +17,22 @@ E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab
 E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.dll
 E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.pdb
 E:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.genruntimeconfig.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.exe
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.deps.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.runtimeconfig.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.runtimeconfig.dev.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\McMaster.Extensions.CommandLineUtils.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\bin\Debug\netcoreapp3.1\Lab 04-Lib.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.csproj.AssemblyReference.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.AssemblyInfoInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.AssemblyInfo.cs
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.csproj.CoreCompileInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.csproj.CopyComplete
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 04\Lab 04-Prog\Lab 04-Prog\obj\Debug\netcoreapp3.1\Lab 04-Prog.genruntimeconfig.cache

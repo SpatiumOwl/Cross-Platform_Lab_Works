@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj": {}
+    "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj": {}
   },
   "projects": {
-    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj": {
+    "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj",
+        "projectUniqueName": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj",
         "projectName": "Lab 04-Lib",
-        "projectPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj",
+        "projectPath": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj",
         "packagesPath": "C:\\Users\\SpatiumOwl\\.nuget\\packages\\",
-        "outputPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\obj\\",
+        "outputPath": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj": {
+    "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj": {
       "version": "0.1.5",
       "restore": {
-        "projectUniqueName": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj",
+        "projectUniqueName": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj",
         "projectName": "ikholiavkin",
-        "projectPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj",
+        "projectPath": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\Lab 04-Prog.csproj",
         "packagesPath": "C:\\Users\\SpatiumOwl\\.nuget\\packages\\",
-        "outputPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\obj\\",
+        "outputPath": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Prog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +91,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj": {
-                "projectPath": "E:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj"
+              "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj": {
+                "projectPath": "D:\\Education\\Course 4\\Semester 1\\Cross-Platform_Lab_Works\\Lab 04\\Lab 04-Prog\\Lab 04-Lib\\Lab 04-Lib.csproj"
               }
             }
           }
@@ -117,7 +118,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -126,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
