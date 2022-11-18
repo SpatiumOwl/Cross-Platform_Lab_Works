@@ -1,0 +1,25 @@
+﻿@model Lab_05_Prog.Models.UserProfileModel
+
+@{
+    ViewBag.Title = "View User Data";
+}
+<h2>@ViewBag.Title</h2>
+<form>
+    <div class="form-group">
+        <label for="email">Email address</label>
+        <input type="email" readonly class="form-control" id="email" aria-describedby="emailHelp" value="@Model.Email" />
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" readonly class="form-control" id="username" value="@Model.UserName" />
+    </div>
+    <div class="form-group">
+        <label for="fl">First Name, Last Name</label>
+        <input type="text" readonly class="form-control" id="fl" value="@Model.FirstName, @Model.LastName" />
+    </div>
+    <div class="form-group">
+        <label for="pn">Phone Number</label>
+        <input type="text" readonly class="form-control" id="pn" value="@Model.PhoneNumber" />
+    </div>
+</form>

@@ -1,0 +1,46 @@
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\appsettings.Development.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\appsettings.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.staticwebassets.runtime.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.exe
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.deps.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.runtimeconfig.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.csproj.AssemblyReference.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.AssemblyInfoInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.AssemblyInfo.cs
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.csproj.CoreCompileInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.RazorAssemblyInfo.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.RazorAssemblyInfo.cs
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets.build.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets.development.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\refint\Lab 05-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.genruntimeconfig.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\ref\Lab 05-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\libman.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Lab 05-Lib.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\Lab 05-Prog.csproj.CopyComplete
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Okta.AspNet.Abstractions.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\Okta.AspNetCore.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets\msbuild.ikholiavkin-05.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets\msbuild.build.ikholiavkin-05.props
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ikholiavkin-05.props
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ikholiavkin-05.props
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\scopedcss\bundle\ikholiavkin-05.styles.css
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\obj\Debug\net6.0\scopedcss\projectbundle\ikholiavkin-05.bundle.scp.css

@@ -1,0 +1,35 @@
+﻿@model Lab_05_Prog.Models.ProcessorModel
+@{
+    ViewData["Title"] = "Lab03";
+
+}
+<h1> @ViewData["Title"]</h1>
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="Lab03">
+    <div class="form-group">
+        <label for="pdata">Data</label>
+        <input type="file" class="form-select" id="pdata" asp-for="Data">
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+@if (Model != null)
+{
+    <div class="container mt5">
+        @if (Model.Calculated)
+        {
+            <div class="row">
+                <label for="presponse">Response</label>
+                @foreach (string row in Model.Response.Split("\n"))
+                {
+                    <big>@row</big>
+                }
+            </div>
+        }
+        @if (Model != null && !string.IsNullOrEmpty(Model.ErrorValue))
+        {
+            <div class="row">
+                <label for="perror"></label>
+                <input type="text" id="perror" value = "@Model.ErrorValue">
+            </div>
+        }
+    </div>
+}

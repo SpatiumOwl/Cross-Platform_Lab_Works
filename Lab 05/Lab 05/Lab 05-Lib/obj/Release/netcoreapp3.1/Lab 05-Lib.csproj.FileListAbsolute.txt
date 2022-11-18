@@ -1,0 +1,10 @@
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\bin\Release\netcoreapp3.1\Lab 05-Lib.deps.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\bin\Release\netcoreapp3.1\Lab 05-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\bin\Release\netcoreapp3.1\Lab 05-Lib.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.csproj.AssemblyReference.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.AssemblyInfoInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.AssemblyInfo.cs
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.csproj.CoreCompileInputs.cache
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Lib\obj\Release\netcoreapp3.1\Lab 05-Lib.pdb

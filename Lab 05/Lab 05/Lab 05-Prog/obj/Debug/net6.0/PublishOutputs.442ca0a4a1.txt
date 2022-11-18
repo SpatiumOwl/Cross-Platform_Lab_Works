@@ -1,0 +1,21 @@
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Prog.exe
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\appsettings.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\libman.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Prog.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Prog.deps.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Prog.runtimeconfig.json
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Prog.pdb
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Logging.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Tokens.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Okta.AspNet.Abstractions.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Okta.AspNetCore.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Lib.dll
+D:\Education\Course 4\Semester 1\Cross-Platform_Lab_Works\Lab 05\Lab 05\Lab 05-Prog\bin\Debug\net6.0\publish\Lab 05-Lib.pdb

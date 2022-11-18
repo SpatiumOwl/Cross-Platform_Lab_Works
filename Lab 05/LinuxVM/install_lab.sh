@@ -1,0 +1,2 @@
+sudo dotnet tool install --global ikholiavkin-05 --add-source http://192.168.56.1:5000/v3/index.json
+sudo dotnet tool install ikholiavkin-05 --add-source http://192.168.56.1:5000/v3/index.json --tool-path /home/vagrant/.dotnet/tools
